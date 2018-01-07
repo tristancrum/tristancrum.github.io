@@ -291,6 +291,10 @@
   font-size: 16px;
 }
 
+.navi._1 {
+  color: #005092;
+}
+
 .nav-menu {
   margin-right: 44px;
   padding-left: 0px;
@@ -396,6 +400,15 @@
 
 .container-2 {
   background-color: transparent;
+}
+
+.section-8 {
+  height: 400px;
+  background-image: url('../images/writing-notes-idea-conference.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
 }
 
 .column-2 {
@@ -815,6 +828,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  margin-bottom: 0px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -851,8 +865,8 @@
 }
 
 .body {
-  background-image: -webkit-linear-gradient(270deg, #4d4d4d, #4d4d4d);
-  background-image: linear-gradient(180deg, #4d4d4d, #4d4d4d);
+  background-image: -webkit-linear-gradient(270deg, #d6d6d6, #d6d6d6);
+  background-image: linear-gradient(180deg, #d6d6d6, #d6d6d6);
 }
 
 .div-block-15 {
@@ -1254,6 +1268,10 @@
   background-image: linear-gradient(180deg, rgba(0, 80, 146, .34), rgba(0, 80, 146, .34)), url('../images/debug.jpeg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
+}
+
+.heading-10 {
+  color: #005092;
 }
 
 @media (max-width: 991px) {
